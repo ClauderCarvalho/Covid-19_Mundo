@@ -24,8 +24,15 @@ Todos os coronavírus são transmitidos de pessoa a pessoa, incluindo os SARS-Co
 
 De 2 a 14 dias
 
+_**FONTE**:http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus.html_
 
 
+
+
+
+
+
+Analise de Dados sobre o Covid-19 Mundo.
 
 
 
@@ -46,4 +53,4 @@ from in  Django
 
 
 
-_**FONTE**:http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus.html_
+
