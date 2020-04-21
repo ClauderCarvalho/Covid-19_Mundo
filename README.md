@@ -51,7 +51,7 @@ Essa ferramenta tem a vantagen de fazer gráficos mais atraente e interativo. At
 
 
 
-## Dataset Covid-19
+## Base de Dados Covid-19
 Com a mudança constante de numero casos confirmados e casos de óbitos, escolhemos a base de dados de abril de 2020
 A base de dados  é composto de 8 colunas é 19835 registros. Cada coluna é especificado por (Province/State, Country/Region, Lat, Long	Date, Confirmed,	Deaths, Recovered	Active).
 
@@ -96,14 +96,19 @@ df.Date.describe()
 
 
 
-###Agrupamento de Dados
+### Agrupamento de Dados
 
 Foi preciso fazer uma agrupamento de dados para obter o numero de casos confirmados que foram recuperados e também pessoas que vieram a óbito.
 
 ```python
 df.groupby
 ```
-![]()
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/agrupamento.png)
+
+
+
+
+
 
 
 
