@@ -60,7 +60,7 @@ A base de dados  é composto de 8 colunas é 19835 registros. Cada coluna é esp
  df.head(5)
  ```
 
-
+Vamos observar cinco primeira linha da base de dados do Covid-19 utlizando o comando head.
 
 ![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/head.png)
 
@@ -71,23 +71,25 @@ A base de dados  é composto de 8 colunas é 19835 registros. Cada coluna é esp
 df.tail(5)
 ```
 
-
+Vamos observar cinco ultmimas linhas da base de dados do Covid-19 utilizando o comando tail.
 ![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/Tail.png)
 
 
 
-Estmamos criando uma nova coluna, essa coluna vai ser criada para mostrar os casos ativos e o caso de morte.
+Estamos criando uma nova coluna, essa coluna vai ser criada para mostrar os casos ativos e o caso de morte.
 
 
 
 
 
 ### Dados Temporais
-Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. Os dados temporais são diarios.
+
 
 ```python
 df.Date.describe()
 ```
+Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. Os dados temporais são diarios.
+
 ![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/Temporais.png)
 
 
