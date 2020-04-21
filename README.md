@@ -33,7 +33,16 @@ _**FONTE**:http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemi
 
 
 # Analise de Dados sobre o Covid-19 Mundo.
-#### Clauder Noronha Abril 2020
+#### Clauder Noronha Abril -  2020
+
+
+
+O estudo pratico foi feito com os dados do Covid-19 no mês de abril, o portal de busca foi da FIOCRUZ https://portal.fiocruz.br/coronavirus . 
+
+Para fazer o tratamento dos dados utilizei quatro bibliotecas. Pandas é uma biblioteca open source amplamente utilizada na comunidade acadêmica. Uma das caracteristicas do Pandas é o seu desempenho e pela sua capacidade de manipulação de dados.
+
+Outra biblioteca foi o Numpy. Numpy é uma poderosa biblioteca Python que é usada principalmente para realizar cálculos em Arrays multidimensionai. O Numpy oferece um grande conjunto de funções e operações de bibliotecas que ajudam os programadores a executar calculos numéricos. 
+
 
 
 
