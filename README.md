@@ -60,6 +60,12 @@ O dataset foi escolhindo com base de abril de 2020. No dataset é composto de 8 
  ```
 
 
+
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/head.png)
+
+
+
+
 ```python
 df.tail(5)
 ```
