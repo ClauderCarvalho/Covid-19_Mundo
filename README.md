@@ -71,10 +71,25 @@ Vou criar uma nova coluna, essa coluna vai ser criada para mostrar os casos ativ
 
 
 
+### Dados Temporais
+Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. Os dados temporais são diarios.
+
 
 ```python
-from in  Django
+df.Date.describe()
 ```
+
+
+###Agrupamento de Dados
+
+Foi preciso fazer uma agrupamento de dados para obter o numero de casos confirmados que foram recuperados e também pessoas que vieram a óbito.
+
+```python
+df.groupby
+```
+
+
+
 
 
 
