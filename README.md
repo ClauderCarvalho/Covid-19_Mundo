@@ -28,11 +28,10 @@ De 2 a 14 dias
 
 
 
-```
-python
+
+```python
 from in  Django
 ```
-
 
 
 
