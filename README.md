@@ -85,11 +85,10 @@ Estmamos criando uma nova coluna, essa coluna vai ser criada para mostrar os cas
 ### Dados Temporais
 Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. Os dados temporais são diarios.
 
-
 ```python
 df.Date.describe()
 ```
-
+![]()
 
 
 
