@@ -60,6 +60,14 @@ O dataset foi escolhindo com base de abril de 2020. No dataset é composto de 8 
  ```
 
 
+```python
+df.tail(5)
+```
+
+
+Vou criar uma nova coluna, essa coluna vai ser criada para mostrar os casos ativos e o caso de morte.
+
+
 
 
 
