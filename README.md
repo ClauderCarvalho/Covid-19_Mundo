@@ -88,7 +88,7 @@ Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. 
 ```python
 df.Date.describe()
 ```
-![]()
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/Temporais.png)
 
 
 
@@ -103,7 +103,7 @@ Foi preciso fazer uma agrupamento de dados para obter o numero de casos confirma
 ```python
 df.groupby
 ```
-
+![]()
 
 
 
