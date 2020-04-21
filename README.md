@@ -71,6 +71,10 @@ df.tail(5)
 ```
 
 
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/Tail.png)
+
+
+
 Vou criar uma nova coluna, essa coluna vai ser criada para mostrar os casos ativos e o caso de morte.
 
 
@@ -84,6 +88,12 @@ Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. 
 ```python
 df.Date.describe()
 ```
+
+
+
+
+
+
 
 
 ###Agrupamento de Dados
