@@ -42,9 +42,9 @@ O estudo pratico foi feito com os dados do Covid-19 no mês de abril, o portal d
 Para fazer o tratamento dos dados utilizei quatro bibliotecas. Pandas é uma biblioteca open source amplamente utilizada na comunidade acadêmica. Uma das caracteristicas do 
 
 Pandas é o seu desempenho e pela sua capacidade de manipulação de dados.
-Outra biblioteca foi o Numpy. Numpy é uma poderosa biblioteca Python que é usada principalmente para realizar cálculos em Arrays multidimensionai. O Numpy oferece um grande conjunto de funções e operações de bibliotecas que ajudam os programadores a executar calculos numéricos. 
+Outra biblioteca foi o Numpy. Numpy é uma biblioteca Python que é usada principalmente para realizar cálculos em Arrays multidimensionai. Oferece um grande conjunto de funções e operações de bibliotecas que ajudam os programadores a executar cálculos numéricos. 
 
-Para criar os graficos utilizei o PlotLy. Plotly tem a vantagen de fazer gráficos mais atraente e interativo. Através de um ambiente studio é possível salvar e editar os gráficos em nuvem utilizando uma interface web simples e intuitiva.
+Para criar os gráficos utilizei o PlotLy. Essa ferramdenta tem a vantagen de fazer gráficos mais atraente e interativo. Através de um ambiente studio é possível salvar e editar os gráficos em nuvem utilizando uma interface web simples e intuitiva.
 
 
 
@@ -52,7 +52,8 @@ Para criar os graficos utilizei o PlotLy. Plotly tem a vantagen de fazer gráfic
 
 ## Dataset Covid-19
 
-O dataset foi escolhindo com base de abril de 2020. No dataset é composto de 8 colunas é 19835 registros. Cada coluna é especificado por (Province/State	Country/Region	Lat	Long	Date	Confirmed	Deaths	Recovered	Active) que traduzindo fica (Estados é cidades, Região, latitude e longitude, Data, casos confirmados, mortos, recuperados e ativos)
+O dataset foi escolhido com base de abril de 2020. 
+No dataset é composto de 8 colunas é 19835 registros. Cada coluna é especificado por (Province/State	Country/Region	Lat	Long	Date	Confirmed	Deaths Recovered	Active).
 
 
  ```python
