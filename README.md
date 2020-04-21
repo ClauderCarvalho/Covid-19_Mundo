@@ -50,6 +50,20 @@ Para criar os graficos utilizei o PlotLy. Plotly tem a vantagen de fazer gráfic
 
 
 
+## Dataset Covid-19
+
+O dataset foi escolhindo com base de abril de 2020. No dataset é composto de 8 colunas é 19835 registros. Cada coluna é especificado por (Province/State	Country/Region	Lat	Long	Date	Confirmed	Deaths	Recovered	Active) que traduzindo fica (Estados é cidades, Região, latitude e longitude, Data, casos confirmados, mortos, recuperados e ativos)
+
+
+ ```python
+ df.head(5)
+ ```
+
+
+
+
+
+
 ```python
 from in  Django
 ```
