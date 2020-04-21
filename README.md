@@ -2,7 +2,7 @@
 
 
 
-![COVID-19](Covid-19_Mundo/covid_19.jpg)
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/covid_19.jpg)
 
 
                                  COVID-19 (Corona Virus)
