@@ -166,9 +166,11 @@ Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quan
 
 Esse grafíco mostrar o crescimento de caso de morte cometido pelo novo coronavìdeo(Covid-19)
 
-![]()
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/CasosConfirmados1.png)
+
+A linha mostra o alto índice de mortes nos EUA
 
 
-
+## Grafíco de painel
 
 
