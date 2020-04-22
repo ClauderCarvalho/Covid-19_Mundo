@@ -180,6 +180,14 @@ A linha mostra o alto índice de mortes nos EUA
 
 Para terminar vamos mostrar através de um mapa por países, quanto maior o círculo maior é a quantidade de confirmados e de mortes, através do novo coronavìrus(Covid-19). 
 
-![]()
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/PaisesComMaiorNUmerodeCaso.png)
+
+
+
+
+ 
+ 
+ ## O codigo fonte do projeto esta no github. 
+ https://github.com/ClauderCarvalho
 
 
