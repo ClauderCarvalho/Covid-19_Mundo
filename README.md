@@ -110,7 +110,43 @@ df.groupby
 
 
 
+# Graficos
 
+A Pandemia do novo coronavírus (Covid-19) já deixou mais de 45 mil mortos na Europa, dos quais cerca de 85% em Itália, Espanha e França.
+Com um total de 46.033 mortos e 627.203 casos oficialmente declarados. A Europa é o continente mais afetado pela pandemia.
+
+Separamos cinco países, EUA, Espanha, Itália, China e Brasil. Vale lembrar que a data foi no dia 06/04/2020. Buscamos mostrar a quantidade de pessoas confirmada e a quantidade de pessoas mortas em cada país.
+
+
+EUA  
+Confirmados                366.614
+Mortos                      10.783
+
+
+
+Espanha
+
+Confirmados               136.675
+Mortos                     13.341
+
+
+
+Itália
+
+Confirmados            132.547
+Mortos                  16.523
+
+
+China
+
+Confirmados                 82.665
+Mortos                        3.335  
+
+
+Brasil
+
+Confirmados             12.161
+Mortos                     564
 
 
 
