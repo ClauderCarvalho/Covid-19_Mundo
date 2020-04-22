@@ -162,7 +162,7 @@ Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quan
 
 
 
-## Grafíco Pico de Elevação
+## Grafíco Pico de Elevação  - Mortes
 
 Esse grafíco mostrar o crescimento de caso de morte cometido pelo novo coronavìdeo(Covid-19)
 
@@ -171,6 +171,15 @@ Esse grafíco mostrar o crescimento de caso de morte cometido pelo novo coronav�
 A linha mostra o alto índice de mortes nos EUA
 
 
-## Grafíco de painel
+## Grafíco de painel -  Mortes
+
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/MOrtesConfirmada.png)
+
+
+## Grafíco Mapas
+
+Para terminar vamos mostrar através de um mapa por países, quanto maior o círculo maior é a quantidade de confirmados e de mortes, através do novo coronavìrus(Covid-19). 
+
+![]()
 
 
