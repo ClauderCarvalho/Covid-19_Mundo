@@ -162,6 +162,11 @@ Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quan
 
 
 
+## Grafíco Pico de Elevação
+
+Esse grafíco mostrar o crescimento de caso de morte cometido pelo novo coronavìdeo(Covid-19)
+
+![]()
 
 
 
