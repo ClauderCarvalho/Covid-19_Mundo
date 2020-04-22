@@ -158,7 +158,7 @@ Mortos                     564
 
 Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quando o quadro é maior existe a grande quantidade de casos confirmado.
 
-![]()
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/CasosConfirmados.png)
 
 
 
