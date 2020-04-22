@@ -154,7 +154,11 @@ Confirmados             12.161
 Mortos                     564
 
 
+## Grafíco de painel
 
+Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quando o quadro é maior existe a grande quantidade de casos confirmado.
+
+![]()
 
 
 
